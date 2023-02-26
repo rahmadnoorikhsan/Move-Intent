@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="move_with_data">Pindah dengan data</string>
+    <string name="data_received"></string>
+    <string name="move_with_object">Pindah Dengan Object</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih Angka</string>
+    <string name="move_with_result">Pindah Dengan Hasil</string>
+    <string name="result_move">Pilihan Nomor Anda</string>
+</resources>
